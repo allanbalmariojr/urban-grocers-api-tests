@@ -54,13 +54,13 @@ This document breaks down functional requirements into testable conditions used 
 `/fast-delivery/v3.1.1/calculate-delivery.xml`
 
 ### Functional Behavior
-The Fast Delivery service calculates delivery cost based on shipping rules.
-The request must follow the XML structure defined in the API documentation.
+- The Fast Delivery service calculates delivery cost based on shipping rules.
+- The request must follow the XML structure defined in the API documentation.
 
 ### Validation Focus Areas
-Required XML fields must be present
-Data types must match specification
-Input must follow correct structure and format
+- Required XML fields must be present
+- Data types must match specification
+- Input must follow correct structure and format
 
 ### Expected Behavior
 | Condition | Expected Response |
@@ -76,11 +76,11 @@ Input must follow correct structure and format
 
 These requirements were translated into structured API test cases covering:
 
-Positive testing (valid inputs)
-Negative testing (invalid inputs)
-Boundary testing (e.g., productsList limit = 30)
-Data validation testing
-Error handling verification (status codes and response structure)
+- Positive testing (valid inputs)
+- Negative testing (invalid inputs)
+- Boundary testing (e.g., productsList limit = 30)
+- Data validation testing
+- Error handling verification (status codes and response structure)
 
 ---
 
