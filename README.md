@@ -94,6 +94,5 @@ urban-grocers-api-tests/
 ## 🚀 Summary
 
 This project demonstrates structured API test design and execution for a backend system, focusing on validation of business logic, input constraints, and error-handling behavior.
-```
 
 ---
