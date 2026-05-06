@@ -98,3 +98,11 @@ These requirements were translated into structured API test cases covering:
 This document serves as the foundation for API test case design in the Urban Grocers project. It ensures test coverage is directly traceable to functional requirements and validates both business logic and system error handling behavior.
 
 ---
+
+## 🧪 QA Value Added
+
+- Translated functional requirements into structured test cases
+- Identified validation gaps and error-handling expectations
+- Ensured full coverage across positive, negative, and boundary scenarios
+
+---
