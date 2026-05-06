@@ -24,27 +24,27 @@ The goal of this project was to:
   - Missing quantities
   - Invalid kit IDs
   - Invalid data types (string, decimal, null values)
-  - Boundary limits (e.g., max number of products per request)
+  - Boundary limits (e.g., maximum number of products per request)
 
 ---
 
 ### 🚚 Fast Delivery Calculation Endpoint
 - Validate delivery cost calculation based on:
-  - product count
-  - product weight
-  - delivery time
+  - Product count
+  - Product weight
+  - Delivery time
 - Test boundary conditions (minimum and maximum limits)
 - Validate system response for invalid payloads:
-  - missing fields
-  - invalid data types
-  - negative values
-  - empty XML body
+  - Missing fields
+  - Invalid data types
+  - Negative values
+  - Empty XML body
 
 ---
 
 ## 🧪 Test Design Approach
 
-Test cases were created using:
+Test cases were created using the following QA techniques:
 
 - Equivalence Partitioning
 - Boundary Value Analysis
@@ -68,19 +68,19 @@ urban-grocers-api-tests/
 
 ## 📊 Key Observations
 
-- Several invalid input scenarios returned **500 Internal Server Error instead of expected 400 Bad Request**
-- This indicates missing or inconsistent backend validation for edge-case inputs
-- The system handles valid inputs correctly but lacks robustness for malformed requests
+- Several invalid input scenarios returned **500 Internal Server Error instead of the expected 400 Bad Request**
+- This indicates inconsistent or missing backend validation for edge-case inputs
+- Valid input scenarios behaved as expected, confirming correct business logic execution under normal conditions
 
 ---
 
 ## 🧠 Key Skills Demonstrated
 
 - REST API testing fundamentals
-- Test case design for backend systems
+- Structured test case design for backend systems
 - Boundary and negative testing strategies
-- Validation of request/response structures
-- Analytical QA thinking (identifying unexpected system behavior)
+- Validation of request/response behavior
+- Analytical QA thinking and defect identification
 
 ---
 
@@ -93,6 +93,7 @@ urban-grocers-api-tests/
 
 ## 🚀 Summary
 
-This project demonstrates structured API test design and execution for a backend system, focusing on validation of business logic, input constraints, and error handling behavior.
+This project demonstrates structured API test design and execution for a backend system, focusing on validation of business logic, input constraints, and error-handling behavior.
+```
 
 ---
