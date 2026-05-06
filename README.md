@@ -55,13 +55,15 @@ Test cases were created using:
 ---
 
 ## 📁 Project Structure
+
+```text
 urban-grocers-api-tests/
 │
 ├── test_cases/
 │ └── urban_grocers_api_test_cases.xlsx
 │
 └── README.md
-
+```
 ---
 
 ## 📊 Key Observations
