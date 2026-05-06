@@ -45,7 +45,7 @@ This document breaks down functional requirements into testable conditions used 
 | Non-existent product ID | 400 Bad Request |
 | Non-existent kit ID | 404 Not Found |
 | Invalid request body structure | 400 Bad Request |
-| productsList length > 30 unique products | 400 Bad Request |
+| More than 30 unique product IDs in productsList | 400 Bad Request |
 
 ---
 
