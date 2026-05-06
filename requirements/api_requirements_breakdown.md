@@ -67,8 +67,11 @@ This document breaks down functional requirements into testable conditions used 
 | Condition | Expected Response |
 |----------|------------------|
 | Valid XML payload | 200 OK - Successful calculation |
-| Missing required fields | 400 Bad Request |
+| Missing productsCount | 400 Bad Request |
+| Missing productsWeight | 400 Bad Request |
+| Missing deliveryTime | 400 Bad Request |
 | Invalid data types | 400 Bad Request |
+| negative values | 400 Bad Request |
 | Empty or malformed XML body | 400 Bad Request |
 
 ---
