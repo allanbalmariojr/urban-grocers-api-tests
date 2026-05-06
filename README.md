@@ -79,9 +79,12 @@ Test Design Techniques Applied:
 ```text
 urban-grocers-api-tests/
 │
-├── test_cases/
+├── requirements/
 │ └── urban_grocers_api_test_cases.xlsx
 │
+├── test_cases/
+│ └── urban_grocers_api_test_cases.xlsx
+|
 └── README.md
 ```
 ---
