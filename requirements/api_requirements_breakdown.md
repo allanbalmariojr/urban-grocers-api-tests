@@ -45,6 +45,7 @@ This document breaks down functional requirements into testable conditions used 
 | Invalid request body structure | 400 Bad Request |
 | productsList length > 30 unique products | 400 Bad Request |
 
+---
 
 ## 🚚 Requirement 2: Working with Deliveries
 ### Endpoint
