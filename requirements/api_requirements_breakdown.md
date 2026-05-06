@@ -50,7 +50,7 @@ This document breaks down functional requirements into testable conditions used 
 ## 🚚 Requirement 2: Working with Deliveries
 ### Endpoint
 
-/fast-delivery/v3.1.1/calculate-delivery.xml
+`/fast-delivery/v3.1.1/calculate-delivery.xml`
 
 ### Functional Behavior
 The Fast Delivery service calculates delivery cost based on shipping rules.
