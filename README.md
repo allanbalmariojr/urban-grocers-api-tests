@@ -109,7 +109,8 @@ urban-grocers-api-tests/
 
 ## 🛠 Tools Used
 
-Postman (manual API execution)
+- Postman (manual API execution)
+- Excel (test case documentation)
 
 ---
 
