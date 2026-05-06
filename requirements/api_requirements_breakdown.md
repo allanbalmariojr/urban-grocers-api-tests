@@ -15,6 +15,7 @@ This document breaks down functional requirements into testable conditions used 
 - Each item in `productsList` includes:
   - `id` (product ID)
   - `quantity`
+- Responses are validated based on HTTP status codes and payload structure.
 
 ### Business Logic Rules
 - The maximum allowed length of `productsList` is **30 unique product IDs**.
