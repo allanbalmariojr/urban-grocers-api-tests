@@ -54,6 +54,14 @@ Test Design Techniques Applied:
 
 ---
 
+📊 Test Coverage Summary
+- 67 test cases designed across 2 API endpoints
+- Covered positive, negative, and boundary scenarios
+- Validated input constraints, data types, and business rules
+- Identified multiple cases of unexpected 500 error responses for invalid inputs
+
+---
+
 ## 📁 Project Structure
 
 ```text
