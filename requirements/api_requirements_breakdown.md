@@ -70,9 +70,6 @@ This document breaks down functional requirements into testable conditions used 
 | Missing required fields | 400 Bad Request |
 | Invalid data types | 400 Bad Request |
 | Empty or malformed XML body | 400 Bad Request |
-| Non-existent product ID | 400 Bad Request |
-| Non-existent kit ID | 404 Not Found |
-| Invalid request body structure | 400 Bad Request |
 
 ---
 
