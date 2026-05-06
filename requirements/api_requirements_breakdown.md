@@ -71,7 +71,7 @@ Input must follow correct structure and format
 
 ---
 
-🧠 How These Requirements Were Used
+## 🧠 How These Requirements Were Used
 
 These requirements were translated into structured API test cases covering:
 
@@ -83,7 +83,7 @@ Error handling verification (status codes and response structure)
 
 ---
 
-📊 Test Coverage Summary
+## 📊 Test Coverage Summary
 | Requirement Area | Test Type Coverage | Focus |
 |------------------|-------------------|------|
 | Kit Products API | Positive / Negative / Boundary | Input validation, business rules |
@@ -91,7 +91,7 @@ Error handling verification (status codes and response structure)
 
 ---
 
-🚀 Summary
+## 🚀 Summary
 
 This document serves as the foundation for API test case design in the Urban Grocers project. It ensures test coverage is directly traceable to functional requirements and validates both business logic and system error handling behavior.
 
