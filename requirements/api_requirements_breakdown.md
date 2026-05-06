@@ -66,7 +66,7 @@ This document breaks down functional requirements into testable conditions used 
 ### Expected Behavior
 | Condition | Expected Response |
 |----------|------------------|
-| Valid XML payload | Successful delivery calculation |
+| Valid XML payload | 200 OK - Successful calculation |
 | Missing required fields | Error response |
 | Invalid data types | Error response |
 | Empty or malformed XML body | Error response |
