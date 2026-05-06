@@ -15,6 +15,18 @@ The goal of this project was to:
 
 ---
 
+## 🧩 Requirement Traceability
+
+All test cases were derived from the API Requirements Breakdown document located in the requirements/ folder.
+
+This ensures full coverage of:
+- Functional requirements
+- Business rules
+- Input validation rules
+- Expected HTTP responses
+
+---
+
 ## 🔍 API Coverage
 
 ### 📦 Product-to-Kit Endpoint
