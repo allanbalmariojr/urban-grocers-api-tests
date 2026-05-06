@@ -44,7 +44,7 @@ The goal of this project was to:
 
 ## 🧪 Test Design Approach
 
-Test cases were created using the following QA techniques:
+Test Design Techniques Applied:
 
 - Equivalence Partitioning
 - Boundary Value Analysis
