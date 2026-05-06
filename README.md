@@ -80,7 +80,7 @@ Test Design Techniques Applied:
 urban-grocers-api-tests/
 │
 ├── requirements/
-│ └── urban_grocers_api_test_cases.xlsx
+│ └── api_requirements_breakdown.md
 │
 ├── test_cases/
 │ └── urban_grocers_api_test_cases.xlsx
